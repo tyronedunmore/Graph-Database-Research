@@ -25,7 +25,7 @@ MATCH (p:Project)-[r:REQUIRED]->(s:Skill) RETURN p,s
 ```
 <img src="https://user-images.githubusercontent.com/59738073/176885064-21d50514-0cd8-4630-8fb8-38d21d80ea09.png" width="400">
 
-### Find non members of School of Code project that have the skills the project requires
+### Find non members of School of Code project that have the skills the project requires to find a good member-project-match
 
 ```
 MATCH (m:Member)
