@@ -4,7 +4,7 @@ Exploration of node.js, Neo4j Graph Database &amp; its cypher script language
 ## Video of walk-through & use case
 
 ## Example Queries
-### View all member, skill & project nodes and their relationships
+### View all members(orange), skill(red) & project nodes(blue) and their relationships
 ```
 MATCH (n) RETURN n
 ```
