@@ -1,5 +1,5 @@
 # Neo4j Graph-Database-Research
-Exploration of node.js, Neo4j Graph Database &amp; its cypher script language
+Exploration of Neo4j Graph Database &amp; the cypher scripting language
 
 ## Video of walk-through & use case
 https://share.descript.com/view/MvnGP14LY1n
